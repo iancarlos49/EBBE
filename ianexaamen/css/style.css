@@ -1,0 +1,58 @@
+.container{
+  background-color: rgb(32, 123, 195);
+  width: auto;
+}
+.container-fluid{
+  background-color: rgb(255, 255, 255);
+}
+.navbar-brand{
+  padding: 10px 15px;
+}
+.navbar{
+  border: none;
+}
+.nav p:hover{
+  padding:5px;
+  background-color: #643a75;
+  border-radius: 10px;
+}
+.container-fluid p {
+  color: #000305;
+}
+
+.camb{
+  color: white;
+}
+
+.btn{
+  background-color: rgb(32, 123, 195);
+  color: #fff;
+}
+
+.a{
+  background-color: rgb(25, 192, 163);
+}
+.b{
+  background-color: rgb(234, 238, 250);
+}
+
+.circule{
+  width: 150px;
+  height: 150px;
+  background-color: rgb(93, 94, 94);
+  border-radius: 100px;
+}
+
+.blue{
+  color: rgb(16, 203, 197);
+}
+
+.c{
+  background-color: #fff;
+}
+
+.d{
+  background-color: rgb(255, 221, 147);
+}
+
+
